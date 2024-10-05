@@ -1,0 +1,8 @@
+digest: 251bf051
+name: dataset
+profile: '{"num_rows": 10, "num_elements": 20}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "tempo", "required": true},
+  {"type": "long", "name": "distancia", "required": true}]}'
+source: '{"tags": {"mlflow.user": "cairo", "mlflow.source.name": "/home/cairo/.local/share/virtualenvs/usp_ds_bigdata-ev0I9uRp/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

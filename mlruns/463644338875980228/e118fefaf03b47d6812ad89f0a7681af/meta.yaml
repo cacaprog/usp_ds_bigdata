@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/463644338875980228/e118fefaf03b47d6812ad89f0a7681af/artifacts
+end_time: 1728083013819
+entry_point_name: ''
+experiment_id: '463644338875980228'
+lifecycle_stage: active
+run_id: e118fefaf03b47d6812ad89f0a7681af
+run_name: Modelo Final
+run_uuid: e118fefaf03b47d6812ad89f0a7681af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728083011239
+status: 3
+tags: []
+user_id: cairo
