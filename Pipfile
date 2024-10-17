@@ -10,6 +10,9 @@ statsmodels = "*"
 matplotlib = "*"
 requests = "*"
 ipykernel = "*"
+pyspark = "==3.5.1"
+findspark = "*"
+seaborn = "*"
 
 [dev-packages]
 
